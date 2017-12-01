@@ -1,4 +1,5 @@
 //0,1,1,2,3,5,8
+//it programe run time some error fount how to solve it
 
 
 class Fibonaci
